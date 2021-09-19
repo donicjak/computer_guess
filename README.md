@@ -1,0 +1,1 @@
+A small program to test out basic python skills. User is guessing a number and the computer is trying to guess it.
